@@ -1,0 +1,10 @@
+{
+  "name": "modules-builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^2.3.0",
+    "ramda": "^0.25.0"
+  }
+}
