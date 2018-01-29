@@ -1,5 +1,5 @@
 {
-  "name": "modules-builder",
+  "name": "@j.u.p.iter/modules-builder",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
