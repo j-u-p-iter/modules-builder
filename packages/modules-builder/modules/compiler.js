@@ -2,8 +2,6 @@ const fs = require('fs');
 const spawn = require('child_process').spawn;
 const chalk = require('chalk');
 
-const { forEachObjIndexed } = require('ramda');
-
 
 const exec = (command, extraEnv) =>
   spawn(command, {
