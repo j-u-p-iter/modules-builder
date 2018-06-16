@@ -1,11 +1,11 @@
 {
   "name": "@j.u.p.iter/modules-builder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/j-u-p-iter/form-base"
+    "url": "https://github.com/j-u-p-iter/modules-builder"
   },
   "dependencies": {
     "chalk": "^2.3.0",
